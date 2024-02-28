@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Repositories
 {
-    internal interface IOrderDetailRepository
+    public interface IOrderDetailRepository
     {
     }
 }

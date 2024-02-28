@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessObjects
 {
-    internal class OrderDetailDAO
+    public class OrderDetailDAO
     {
     }
 }

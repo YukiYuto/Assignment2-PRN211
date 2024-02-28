@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaleManagementWinApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d56ad15ee77b77a3a5fb8267a38d5fa50838db2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+104dc41e874a4a8e5b0588b33ed126163d77fda3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaleManagementWinApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaleManagementWinApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

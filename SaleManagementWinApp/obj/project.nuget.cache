@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rof+9iQzFzJM3fN5wzZDqKyDxX4ask7kRUTrr7R53G5DxJo3wa4JkEfUgQDZ0S09By+4LpGwbaAyJ9IYE728NA==",
+  "dgSpecHash": "Ee4t1orVSI9yEqonB7HM6qNfQ8GEtQ88cO6uqgbLQR6v3TFVVB6iVMvB8GXgHYZhCFvem5WP3EWsU4+UybVouA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
