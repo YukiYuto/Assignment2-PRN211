@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IAautuQb6edadtaeCousgHu7TGR5VYwvJSzalvSZ3qm4h67ABMO+IVD/J+6xTwqLb7sUpVy8Pol7TuYCt2Twhw==",
+  "dgSpecHash": "t3bfH1q9Ctt9gVfqvY0x0hLB0/WSKFIMRvHQ7D5ba03xnqD4luWDP4IRaBrtd1Q7KISVDiVRf8iiWWP32ZZBJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Assignement_2\\Ass02Solution_NET1705\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
