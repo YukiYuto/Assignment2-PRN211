@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {}
+    "C:\\Users\\thucl\\Source\\Repos\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\thucl\\Source\\Repos\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\thucl\\Source\\Repos\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\obj\\",
+        "projectPath": "C:\\Users\\thucl\\Source\\Repos\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\thucl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thucl\\Source\\Repos\\Assignment2-PRN211\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\thucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
