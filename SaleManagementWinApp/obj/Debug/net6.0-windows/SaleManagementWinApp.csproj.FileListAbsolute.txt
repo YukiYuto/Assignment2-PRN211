@@ -46,7 +46,6 @@ C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\bin\Debug\
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\bin\Debug\net6.0-windows\BusinessObjects.pdb
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\bin\Debug\net6.0-windows\DataAccessObjects.pdb
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.Form1.resources
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.csproj.GenerateResource.cache
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.AssemblyInfoInputs.cache
@@ -59,3 +58,9 @@ C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.pdb
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\ref\SaleManagementWinApp.dll
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmCreateOrder.resources
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmDetailInfo.resources
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmLogin.resources
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmOrder.resources
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmProduct.resources
+C:\Users\ADMIN\Downloads\test\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.frmProductDetail.resources

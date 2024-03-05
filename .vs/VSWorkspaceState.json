@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\BusinessObjects",
-    "\\DataAccessObjects"
+    "\\SaleManagementWinApp"
   ],
-  "SelectedNode": "\\DataAccessObjects\\OrderDAO.cs",
+  "SelectedNode": "\\SaleManagementWinApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
