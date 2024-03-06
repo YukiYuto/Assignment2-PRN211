@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj": {}
+    "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,8 +176,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj": {
+    "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
         "projectName": "SaleManagementWinApp",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\SaleManagementWinApp\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\SaleManagementWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,8 +239,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test\\Assignment2-PRN211\\Repositories\\Repositories.csproj"
+              "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj"
               }
             }
           }
