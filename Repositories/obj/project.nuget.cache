@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d1B8aArzZ0ajR+iZrJzK193yWkiPj9TwdfZWuryC+f+tl4jZ5EoJV4Zjrt7PF2yx2alV9GL/yC+2OVBvYc/xUQ==",
+  "dgSpecHash": "j+TjN53inqU+LJ34vt1TJ/uRjcFNeyxtH8UL/m/FpYeff2++bJePFbsVi4pOzQYM3WFNyMdqGe94pQ2deV0uEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
@@ -53,5 +53,12 @@
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\Repositories\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

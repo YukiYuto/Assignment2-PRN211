@@ -5,6 +5,6 @@
     "\\Repositories",
     "\\SaleManagementWinApp"
   ],
-  "SelectedNode": "\\Repositories\\OrderRepository.cs",
+  "SelectedNode": "\\Repositories\\IOrderRepository.cs",
   "PreviewInSolutionExplorer": false
 }

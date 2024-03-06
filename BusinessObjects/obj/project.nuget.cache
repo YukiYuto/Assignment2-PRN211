@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgVwbDey5xxvXlKFpn1yRetIw9LK1kjdlOvKKwJv/uBV3JcSP+WeJnYYang9XF1Ka4s+fuAdQvQ95srC0xFWPw==",
+  "dgSpecHash": "YC+eKSre+R3HkOy6PPu/dcMKe84Ac/gZOmW5L8sPtJSolz8q5C4hIfzILu+ZgR0lg9IyTKmVWbmjJGX21L2uEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -56,5 +56,12 @@
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

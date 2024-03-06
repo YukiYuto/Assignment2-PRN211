@@ -2387,11 +2387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Downloads\\test_2\\Assignment2-PRN211\\BusinessObjects\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2464,5 +2464,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\BusinessObjects\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
