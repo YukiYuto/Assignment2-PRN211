@@ -21,5 +21,10 @@ namespace SaleManagementWinApp
         {
 
         }
+
+        private void frmProduct_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

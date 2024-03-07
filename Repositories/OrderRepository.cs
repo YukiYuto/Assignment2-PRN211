@@ -19,7 +19,7 @@ namespace Repositories
         public Order? GetOrder(int id) => OrderDAO.Instance.GetOrder(id);
        
 
-        public ICollection<Order> GetOrders() => OrderDAO.Instance.GetOrdersById(id);
+        public ICollection<Order> GetOrders(int id) => OrderDAO.Instance.GetOrdersById(id);
         
 
         public ICollection<Order> SearchAndFilterOrderByID(int id) => OrderDAO.Instance.SearchAndFilterOrderByID(id);

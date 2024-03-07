@@ -205,6 +205,7 @@
             Controls.Add(txtFlowerBouquetID);
             Name = "frmProduct";
             Text = "frmProduct";
+            Load += frmProduct_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();

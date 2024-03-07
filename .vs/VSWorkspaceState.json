@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\BusinessObjects",
+    "\\BusinessObjects\\Models",
+    "\\DataAccessObjects",
     "\\Repositories",
     "\\SaleManagementWinApp"
   ],
-  "SelectedNode": "\\Repositories\\IOrderRepository.cs",
+  "SelectedNode": "\\BusinessObjects\\Models\\Customer.cs",
   "PreviewInSolutionExplorer": false
 }
