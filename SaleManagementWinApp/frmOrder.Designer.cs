@@ -36,6 +36,7 @@
             dgbListOrder = new DataGridView();
             button1 = new Button();
             txtSearch = new TextBox();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dgbListOrder).BeginInit();
             SuspendLayout();
             // 
@@ -52,7 +53,7 @@
             // btnCreate
             // 
             btnCreate.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            btnCreate.Location = new Point(179, 457);
+            btnCreate.Location = new Point(138, 457);
             btnCreate.Margin = new Padding(3, 2, 3, 2);
             btnCreate.Name = "btnCreate";
             btnCreate.Size = new Size(82, 32);
@@ -63,7 +64,7 @@
             // btnLoad
             // 
             btnLoad.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            btnLoad.Location = new Point(615, 457);
+            btnLoad.Location = new Point(552, 457);
             btnLoad.Margin = new Padding(3, 2, 3, 2);
             btnLoad.Name = "btnLoad";
             btnLoad.Size = new Size(82, 32);
@@ -74,7 +75,7 @@
             // btnDelete
             // 
             btnDelete.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            btnDelete.Location = new Point(471, 457);
+            btnDelete.Location = new Point(408, 457);
             btnDelete.Margin = new Padding(3, 2, 3, 2);
             btnDelete.Name = "btnDelete";
             btnDelete.Size = new Size(82, 32);
@@ -85,7 +86,7 @@
             // btnUpdate
             // 
             btnUpdate.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point);
-            btnUpdate.Location = new Point(324, 457);
+            btnUpdate.Location = new Point(273, 457);
             btnUpdate.Margin = new Padding(3, 2, 3, 2);
             btnUpdate.Name = "btnUpdate";
             btnUpdate.Size = new Size(82, 32);
@@ -119,11 +120,22 @@
             txtSearch.Size = new Size(493, 23);
             txtSearch.TabIndex = 18;
             // 
+            // button2
+            // 
+            button2.Location = new Point(684, 457);
+            button2.Name = "button2";
+            button2.Size = new Size(82, 32);
+            button2.TabIndex = 19;
+            button2.Text = "Exit";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // frmOrder
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(909, 548);
+            Controls.Add(button2);
             Controls.Add(txtSearch);
             Controls.Add(button1);
             Controls.Add(dgbListOrder);
@@ -134,6 +146,7 @@
             Controls.Add(label1);
             Margin = new Padding(3, 2, 3, 2);
             Name = "frmOrder";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "frmOrder";
             ((System.ComponentModel.ISupportInitialize)dgbListOrder).EndInit();
             ResumeLayout(false);
@@ -150,5 +163,6 @@
         private DataGridView dgbListOrder;
         private Button button1;
         private TextBox txtSearch;
+        private Button button2;
     }
 }

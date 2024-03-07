@@ -196,3 +196,4 @@ C:\Users\ADMIN\Downloads\Repository\Assignment2-PRN211\SaleManagementWinApp\obj\
 C:\Users\ADMIN\Downloads\Repository\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.pdb
 C:\Users\ADMIN\Downloads\Repository\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\SaleManagementWinApp.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\Repository\Assignment2-PRN211\SaleManagementWinApp\obj\Debug\net6.0-windows\ref\SaleManagementWinApp.dll
+C:\Users\ADMIN\Downloads\Repository\Assignment2-PRN211\SaleManagementWinApp\bin\Debug\net6.0-windows\appsettings.json
