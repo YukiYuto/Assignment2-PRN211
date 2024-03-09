@@ -10,7 +10,7 @@ namespace Repositories
 {
     public class OrderRepository : IOrderRepository
     {
-        public bool AddNewOrder(Order order) => OrderDAO.Instance.AddNewOrder(order);
+     /*  public bool AddNewOrder(Order order) => OrderDAO.Instance.AddNewOrder(order);
        
 
         public bool DeleteOrder(int id) => OrderDAO.Instance.DeleteOrder(id);
@@ -25,7 +25,7 @@ namespace Repositories
         public ICollection<Order> SearchAndFilterOrderByID(int id) => OrderDAO.Instance.SearchAndFilterOrderByID(id);
        
 
-        public bool UpdateOrder(Order order) => OrderDAO.Instance.UpdateOrder(order);
+        public bool UpdateOrder(Order order) => OrderDAO.Instance.UpdateOrder(order);*/
        
     }
 }

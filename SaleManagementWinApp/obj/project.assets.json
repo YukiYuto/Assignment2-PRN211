@@ -2332,24 +2332,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\thucl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
+      "projectUniqueName": "C:\\Users\\thucl\\Desktop\\prj\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
       "projectName": "SaleManagementWinApp",
-      "projectPath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\SaleManagementWinApp\\obj\\",
+      "projectPath": "C:\\Users\\thucl\\Desktop\\prj\\Assignment2-PRN211\\SaleManagementWinApp\\SaleManagementWinApp.csproj",
+      "packagesPath": "C:\\Users\\thucl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thucl\\Desktop\\prj\\Assignment2-PRN211\\SaleManagementWinApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\thucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2363,8 +2358,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\Repositories\\Repositories.csproj"
+            "C:\\Users\\thucl\\Desktop\\prj\\Assignment2-PRN211\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\thucl\\Desktop\\prj\\Assignment2-PRN211\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -2397,16 +2392,8 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ADMIN\\Downloads\\Repository\\Assignment2-PRN211\\SaleManagementWinApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -9,12 +9,12 @@ namespace Repositories
 {
     public interface IOrderRepository
     {
-        Order? GetOrder(int id);
+        /*Order? GetOrder(int id);
         ICollection<Order> GetOrders(int id);
         ICollection<Order> SearchAndFilterOrderByID(int id);
         bool AddNewOrder(Order order);
         bool DeleteOrder(int id);
-        bool UpdateOrder(Order order);
+        bool UpdateOrder(Order order);*/
 
     }
 }

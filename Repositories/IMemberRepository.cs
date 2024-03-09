@@ -9,11 +9,11 @@ namespace Repositories
 {
     public interface IMemberRepository
     {
-        Customer? GetCustomer(int id);
+      /*  Customer? GetCustomer(int id);
         ICollection<Customer> GetCustomers(int id);
         ICollection<Customer> SearchAndFilterCustomerByID(int id);
         bool AddNewCustomer(Customer customer);
         bool DeleteCustomer(int id);
-        bool UpdateCustomer(Customer customer);
+        bool UpdateCustomer(Customer customer);*/
     }
 }

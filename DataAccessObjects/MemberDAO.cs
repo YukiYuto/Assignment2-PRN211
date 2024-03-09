@@ -25,17 +25,7 @@ namespace DataAccessObjects
             return list;
         }
 
-        public static bool Login(Customer customer)
-        {   
-            var context = new FUFlowerBouquetManagementV4Context();
-            if (context.Customers.FirstOrDefault(customer) != null)
-            {
-                return true;
-            }
-            
-            return false;
-        }
-
+        
 
 
     }

@@ -10,22 +10,20 @@ namespace Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        public bool AddNewFlowerBouquet(FlowerBouquet flowerBouquet) => ProductDAO.Instance.AddNewFlowerBouquet(flowerBouquet);
-        
+        public void AddNewFlowerBouquet(FlowerBouquet flowerBouquet) => ProductDAO.SaveProduct(flowerBouquet);
 
-        public bool DeleteFlowerBouquet(int id) => ProductDAO.Instance.DeleteFlowerBouquet(id);
+
+        public void DeleteFlowerBouquet(int id) => ProductDAO.DeleteProduct(id);
       
 
-        public FlowerBouquet? GetFlowerBouquet(int id) => ProductDAO.Instance.GetFlowerBouquet(id);
-        
+        public FlowerBouquet? GetFlowerBouquet(int id) => ProductDAO.GetProduct(id);
 
-        public ICollection<FlowerBouquet> GetFlowerBouquets(int id) => ProductDAO.Instance.GetAllFlowerBouquets(id);
+
+        public List<FlowerBouquet> GetFlowerBouquets() => ProductDAO.GetProducts();
        
 
-        public ICollection<FlowerBouquet> SearchAndFilterFlowerBouquetByID(int id) => ProductDAO.Instance.SearchAndFilterFlowerBouquetByID(id);
-        
+        public void UpdateFlowerBouquet(FlowerBouquet flowerBouquet) => ProductDAO.UpdateProduct(flowerBouquet);
 
-        public bool UpdateFlowerBouquet(FlowerBouquet flowerBouquet) => ProductDAO.Instance.UpdateFlowerBouquet()
-        
+       
     }
 }

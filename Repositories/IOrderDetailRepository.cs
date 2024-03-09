@@ -9,11 +9,11 @@ namespace Repositories
 {
     public interface IOrderDetailRepository
     {
-        OrderDetail? GetOrderDetail(int orderId, int flowerBouquetId);
+       /* OrderDetail? GetOrderDetail(int orderId, int flowerBouquetId);
         ICollection<OrderDetail> GetOrderDetails();
         ICollection<OrderDetail> SearchAndFilterOrderDetailByOrderID(int orderId);
         bool AddNewOrderDetail(OrderDetail orderDetail);
         bool DeleteOrderDetail(int orderId, int flowerBouquetId);
-        bool UpdateOrderDetail(OrderDetail orderDetail);
+        bool UpdateOrderDetail(OrderDetail orderDetail);*/
     }
 }

@@ -10,7 +10,7 @@ namespace Repositories
 {
     public class OrderDetailRepository : IOrderDetailRepository
     {
-        public bool AddNewOrderDetail(OrderDetail orderDetail) => OrderDetailDAO.Instance.AddNewOrderDetail(orderDetail);
+     /*   public bool AddNewOrderDetail(OrderDetail orderDetail) => OrderDetailDAO.Instance.AddNewOrderDetail(orderDetail);
 
 
         public bool DeleteOrderDetail(int orderId, int flowerBouquetId) => OrderDetailDAO.Instance.DeleteOrderDetail(orderId, flowerBouquetId);
@@ -25,7 +25,7 @@ namespace Repositories
         public ICollection<OrderDetail> SearchAndFilterOrderDetailByOrderID(int orderId) => OrderDetailDAO.Instance.SearchAndFilterOrderDetailByOrderID(orderId);
        
 
-        public bool UpdateOrderDetail(OrderDetail orderDetail) => OrderDetailDAO.Instance.UpdateOrderDetail(orderDetail);
+        public bool UpdateOrderDetail(OrderDetail orderDetail) => OrderDetailDAO.Instance.UpdateOrderDetail(orderDetail);*/
        
     }
 }

@@ -10,10 +10,10 @@ namespace Repositories
     public interface IProductRepository
     {
         FlowerBouquet? GetFlowerBouquet(int id);
-        ICollection<FlowerBouquet>GetFlowerBouquets(int id);
-        ICollection<FlowerBouquet> SearchAndFilterFlowerBouquetByID(int id);
-        bool AddNewFlowerBouquet(FlowerBouquet flowerBouquet);
-        bool DeleteFlowerBouquet(int id);
-        bool UpdateFlowerBouquet(FlowerBouquet flowerBouquet);
+        List<FlowerBouquet>GetFlowerBouquets();
+
+        void AddNewFlowerBouquet(FlowerBouquet flowerBouquet);
+        void DeleteFlowerBouquet(int id);
+        void UpdateFlowerBouquet(FlowerBouquet flowerBouquet);
     }
 }

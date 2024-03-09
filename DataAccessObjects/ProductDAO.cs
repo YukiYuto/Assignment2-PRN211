@@ -17,7 +17,7 @@ namespace DataAccessObjects
             try
             {
                 var context = new FUFlowerBouquetManagementV4Context();
-                list = context.FlowerBouquets.Include(p => p.Category).ToList();
+                list = context.FlowerBouquets.ToList();
             }catch (Exception ex)
             {
                 throw new Exception(ex.Message, ex);
@@ -52,16 +52,23 @@ namespace DataAccessObjects
             
         }
 
-        public static void DeleteProduct(FlowerBouquet product)
+        public static void DeleteProduct(int id)
         {
-            if (product == null)
+            var context = new FUFlowerBouquetManagementV4Context();
+            FlowerBouquet product = context.FlowerBouquets.SingleOrDefault(p => p.FlowerBouquetId.Equals(id));
+            if (product != null)
             {
+                context.Remove(product);
+                context.SaveChanges();
                 return;
             }
+            else
+            {
+                throw new Exception("product null");
+            }
 
-            var context = new FUFlowerBouquetManagementV4Context();
-            context.Remove(product);
-            context.SaveChanges();
+            
+         
 
         }
 
@@ -79,6 +86,22 @@ namespace DataAccessObjects
             }
             return list;
 
+        }
+
+
+
+        public static string GetCateName(int id)
+        {
+            var context = new FUFlowerBouquetManagementV4Context();
+
+            return context.Categories.FirstOrDefault(c => c.CategoryId == id).CategoryName;
+        }
+
+        public static string GetSupplierName(int? id)
+        {
+            var context = new FUFlowerBouquetManagementV4Context();
+
+            return context.Suppliers.FirstOrDefault(c => c.SupplierId == id).SupplierName.ToString();
         }
 
 
